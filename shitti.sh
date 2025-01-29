@@ -7,6 +7,13 @@ rikki=false
 porras=0
 run=True
 
+echo "Jorma on autiotalossa"
+echo "Auta Jormaa pakenemaan autiotalosta ennen kuin on liian myöhäistä"
+echo "Voit ohjata Jormaa komennoilla kuten esimerkiksi -mene ovelle-   -ota esine-   -käytä-  jne."
+
+
+
+
 echo -n ">> "
 read input
 
